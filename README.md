@@ -1,5 +1,5 @@
 # Weak_Schur_Problem_FunSearch
-## Current best bounds on WS(n) found by funsearch
+## Current best bounds on WS(n) we've reproduced with Funsearch
 $$\text{WS}(2) \geq 8 $$
 $$\text{WS}(3) \geq 23 $$
 $$\text{WS}(4) \geq 66 $$
